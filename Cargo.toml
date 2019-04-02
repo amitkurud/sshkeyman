@@ -5,3 +5,4 @@ authors = ["ashishkondekar015"]
 edition = "2018"
 
 [dependencies]
+ssh2 = "0.3"
